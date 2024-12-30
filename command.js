@@ -21,7 +21,7 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
 //  * @project_name : MANU-MD
-//  * @author : Manul Official
+//  * @author : isuwa max
 //  * @youtube : https://www.youtube.com/@ManulOfficialTech
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
 //*
